@@ -1,5 +1,3 @@
-# 피보나치 함수
-
 t = int(input())
 
 for _ in range(t):
