@@ -1,3 +1,5 @@
+from collections import deque
+
 def min1earlier(time):
     time = time.split(':')
     hour = int(time[0])
